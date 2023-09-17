@@ -9,12 +9,13 @@ This program uses ChatGPT, Google Text-to-Speech, and Freesound.org to create fu
 # Podcasts Created with Series GPT
 ### ["Ancient Aliens: Thomas Edison" sponsored by Zap Waterproof Lightbulbs.](https://on.soundcloud.com/N6ULZ)
 
-<img src="https://github.com/jasonsheinkopf/series_gpt/blob/c3496efa40fd5a4ab2dc148603f74e5026aca252/Ancient%20Aliens%3A%20Thomas%20Edison/output/Ancient%20Aliens%20Thomas%20Edison.png" width="200" height="200">    
+<img src="Ancient Aliens: Thomas Edison/output/Ancient Aliens Thomas Edison.png" width="200" height="200">    
+
 
 A telling of the life of Thomas Edison that mostly follows the actual events of his life but also includes how most of his inventions were developed by reverse engineering alien technology found in the pyramids. It should feature the actual people in his life and also an alien named Gortinazoopie who only Edison can see and always gets Edison in trouble by suggesting bad invention ideas as a joke. Gortinazoopie thinks it's funny when nobody likes Edison's bad inventions.  
 ### ["Strike While the Iron's Bot" sponsored by General Refrigerant 134a](https://on.soundcloud.com/jZ4vx)
 
-<img src="https://github.com/jasonsheinkopf/series_gpt/blob/c3496efa40fd5a4ab2dc148603f74e5026aca252/Strike%20While%20the%20Iron's%20Bot/output/Strike%20While%20the%20Iron's%20Bot%20Show%20Icon.png" width="200" height="200">  
+<img src="Strike While the Iron's Bot/output/Strike While the Iron's Bot Show Icon.jpg" width="200" height="200">  
 
 A washing machine gets struck by lightning and becomes a self-aware robot named Spinner. Since there are no others
 like him, he creates a technology that starts lightning storms near appliance stores in the hopes that more like
