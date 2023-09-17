@@ -9,7 +9,7 @@ This program uses ChatGPT, Google Text-to-Speech, and Freesound.org to create fu
 # Podcasts Created with Series GPT
 ### ["Ancient Aliens: Thomas Edison" sponsored by Zap Waterproof Lightbulbs.](https://on.soundcloud.com/N6ULZ)
 
-<img src="Ancient Aliens: Thomas Edison/output/Ancient Aliens Thomas Edison.png" width="200" height="200">    
+<img src="Ancient Aliens: Thomas Edison/output/Ancient Aliens Thomas Edison.jpg" width="200" height="200">    
 
 
 A telling of the life of Thomas Edison that mostly follows the actual events of his life but also includes how most of his inventions were developed by reverse engineering alien technology found in the pyramids. It should feature the actual people in his life and also an alien named Gortinazoopie who only Edison can see and always gets Edison in trouble by suggesting bad invention ideas as a joke. Gortinazoopie thinks it's funny when nobody likes Edison's bad inventions.  
